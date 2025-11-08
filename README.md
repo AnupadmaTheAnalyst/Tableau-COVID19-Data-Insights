@@ -27,8 +27,7 @@ Data was cleaned and analyzed using **SQL**, and visualized through **Tableau** 
 ![Tableau Dashboard](Dashboard_View.png)
  
 
-### 🌐 Live Dashboard (Optional)
-If you’ve published to Tableau Public, add your link here:  
+### 🌐 Live Dashboard 
 👉 [View on Tableau Public](https://public.tableau.com/app/profile/anupadma.s/viz/Covid-19DatasetAnalysis_17626063645410/Dashboard1)
 
 ---
